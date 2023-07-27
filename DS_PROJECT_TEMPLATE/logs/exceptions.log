@@ -1,0 +1,5 @@
+2023-07-27 15:46:59 - ExceptionHandler - ERROR - Error occurred while performing the division.
+Traceback (most recent call last):
+  File "C:\Users\Alkashi\Desktop\ML_Project\Automation_python\DS_PROJECT_TEMPLATE\scripts\logging_module\logger.py", line 110, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
